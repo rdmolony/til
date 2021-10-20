@@ -5,4 +5,5 @@ Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 ## powershell
 
 * [Styling powershell with oh-my-posh](https://github.com/rdmolony/til/blob/main/powershell/styling-powershell-with-oh-my-posh.md) - 2021-10-20
+* [Adding conda to the powershell prompt](https://github.com/rdmolony/til/blob/main/powershell/adding-conda-to-the-powershell-profile.md) - 2021-10-20
 <!-- index ends -->

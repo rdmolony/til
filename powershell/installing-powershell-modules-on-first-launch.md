@@ -26,3 +26,5 @@ oh-my-posh
 2. For whatever reason it's a really really slow operation to run on every startup: 16888ms vs 1892ms
 
 For now I'm keeping all external modules as a comment at the bottom of my profile
+
+:exclamation: See profile [here](https://github.com/rdmolony/dotfiles-windows)

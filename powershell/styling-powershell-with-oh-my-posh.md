@@ -17,3 +17,5 @@ characters and look weird in `vscode`.  The [`powerlevel10k`](https://github.com
 After installing my font I checked it was installed by going to `C:\Windows\Fonts` and
 finally I copied and pasted the filename into `Settings > Terminal > Font Family` to
 set it as the default in `vscode`
+
+:exclamation: See profile [here](https://github.com/rdmolony/dotfiles-windows)

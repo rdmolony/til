@@ -20,3 +20,5 @@ From the [microsoft docs](https://docs.microsoft.com/en-us/powershell/module/mic
 Now `powershell` boots with `conda` initialised and visible in the prompt!
 
 This means that the powershell shell in `vscode` now has access to `conda`.  It also means that I can now style my prompt using `oh-my-posh` (see [Styling powershell with oh-my-posh](https://github.com/rdmolony/til/blob/main/powershell/styling-powershell-with-oh-my-posh.md)) and make it permanent.
+
+:exclamation: See profile [here](https://github.com/rdmolony/dotfiles-windows)

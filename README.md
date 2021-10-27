@@ -8,4 +8,8 @@ Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 * [Adding conda to the powershell prompt](https://github.com/rdmolony/til/blob/main/powershell/adding-conda-to-the-powershell-profile.md) - 2021-10-20
 * [Running scripts on launch](https://github.com/rdmolony/til/blob/main/powershell/running-scripts-on-launch.md) - 2021-10-21
 * [Installing powershell modules on first launch](https://github.com/rdmolony/til/blob/main/powershell/installing-powershell-modules-on-first-launch.md) - 2021-10-21
+
+## wind-energy-theory
+
+* [Estimating wind speed forecast uncertainty](https://github.com/rdmolony/til/blob/main/wind-energy-theory/estimating-wind-speed-forecast-uncertainty.md) - 2021-10-27
 <!-- index ends -->

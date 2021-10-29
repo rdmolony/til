@@ -2,6 +2,9 @@
 Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til)
 
 <!-- index starts -->
+## StationManager
+
+* [How the home page links to a station page](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-homepage-links-to-station-pages.md) - 2021-10-29
 ## powershell
 
 * [Styling powershell with oh-my-posh](https://github.com/rdmolony/til/blob/main/powershell/styling-powershell-with-oh-my-posh.md) - 2021-10-20

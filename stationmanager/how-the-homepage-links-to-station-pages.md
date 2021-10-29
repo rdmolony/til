@@ -1,4 +1,4 @@
-# How the home page map links to a station page
+# How the home page links to a station page
 
 Upon loading the homepage.  Django receives a request for **/**, searches `urls.py`, finds `url(r'^$', map, name='map')`, searches `views.py` for `map`, and renders `map.html`.
 

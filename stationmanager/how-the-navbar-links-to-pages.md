@@ -1,4 +1,4 @@
-# How the navbar links to the pages
+# How the navbar links to pages
 
 The navbar is created using [`bootstrap css`](https://getbootstrap.com/) to style a `<ul>` elements within a `<nav>` element into a quality navigation bar.
 

@@ -6,6 +6,8 @@ Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 
 * [How the home page links to a station page](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-homepage-links-to-station-pages.md) - 2021-10-29
 * [How the navbar links to pages](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-navbar-links-to-pages.md) - 2021-11-01
+* [How the lidar report table is created](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-lidar-report-is-created.md) - 2021-11-01
+
 ## powershell
 
 * [Styling powershell with oh-my-posh](https://github.com/rdmolony/til/blob/main/powershell/styling-powershell-with-oh-my-posh.md) - 2021-10-20

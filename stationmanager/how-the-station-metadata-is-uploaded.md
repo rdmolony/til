@@ -61,5 +61,28 @@ class IeaModelFormExcel(forms.Form):
 
 > `{% csrf_token %}` is [required by `Django`](https://docs.djangoproject.com/en/3.2/ref/csrf/) when submitting a POST request for security reasons
 
-- link the user to a template Excel file containing two sheets: one for the station metadata such as the contractor and one for sensor metadata such as calibrations.
+- link the user to a template Excel file containing two sheets:
 
+  - station metadata such as the contractor
+  - sensor metadata such as calibrations.
+
+- on upload `Django` calls `process_data` which
+
+  - reads both sheets via pandas
+  - concatenates the sheets into a single DataFrame
+  - finds the database tables associated with each metadata attribute creating a new table if it does not yet exist.  The sensor metadata is looped through so the database is queried for each individual sensor
+  - cleans the data to a standardised format
+  - saves it
+
+  > The following tables are queried by `process_data`: `FkProjecttype`, `FkCountry`, `Project`, `FkStationtype`, `FkInstaller`, `FkLoggermodel`, `Timezone`, `FkOwner`, `Station`, `Logger`, `FkDatatype`, `FkSensortype`,  `FkSensormodel`, `Sensor`, `FkCalibrationBody`, `Node`, `Sensor`
+
+  ```python
+  try:
+    project_django = Project.objects.get(name=info['Plant name'][0], idcountry=country_type, idtype=project_type)
+  except Project.DoesNotExist:
+    project_django = Project(idtype=project_type, name=info['Plant name'][0], idcountry=country_type)
+  
+  project_django.save()
+  ```
+
+  > [`Nominatim`](https://nominatim.org/), the `Openstreetmap` geocoding engine, is called to determine the address of each inputted latitude and longitude

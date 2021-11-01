@@ -8,6 +8,7 @@ Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 * [How the navbar links to pages](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-navbar-links-to-pages.md) - 2021-11-01
 * [How the lidar report table is created](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-lidar-report-is-created.md) - 2021-11-01
 * [How the export to windographer button works](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-export-to-windographer-button-works.md) - 2021-11-01
+* [How the station metadata is uploaded](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-station-metadata-is-uploaded.md) - 2021-11-01
 
 ## powershell
 

@@ -74,8 +74,6 @@ class IeaModelFormExcel(forms.Form):
   - cleans the data to a standardised format
   - saves it
 
-  > The following tables are queried by `process_data`: `FkProjecttype`, `FkCountry`, `Project`, `FkStationtype`, `FkInstaller`, `FkLoggermodel`, `Timezone`, `FkOwner`, `Station`, `Logger`, `FkDatatype`, `FkSensortype`,  `FkSensormodel`, `Sensor`, `FkCalibrationBody`, `Node`, `Sensor`
-
   ```python
   try:
     project_django = Project.objects.get(name=info['Plant name'][0], idcountry=country_type, idtype=project_type)
@@ -84,5 +82,7 @@ class IeaModelFormExcel(forms.Form):
   
   project_django.save()
   ```
+
+  > The following tables are queried by `process_data`: `FkProjecttype`, `FkCountry`, `Project`, `FkStationtype`, `FkInstaller`, `FkLoggermodel`, `Timezone`, `FkOwner`, `Station`, `Logger`, `FkDatatype`, `FkSensortype`,  `FkSensormodel`, `Sensor`, `FkCalibrationBody`, `Node`, `Sensor`
 
   > [`Nominatim`](https://nominatim.org/), the `Openstreetmap` geocoding engine, is called to determine the address of each inputted latitude and longitude

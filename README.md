@@ -2,13 +2,9 @@
 Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til)
 
 <!-- index starts -->
-## StationManager
+## pandas
 
-* [How the home page links to a station page](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-homepage-links-to-station-pages.md) - 2021-10-29
-* [How the navbar links to pages](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-navbar-links-to-pages.md) - 2021-11-01
-* [How the lidar report table is created](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-lidar-report-is-created.md) - 2021-11-01
-* [How the export to windographer button works](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-export-to-windographer-button-works.md) - 2021-11-01
-* [How the station metadata is uploaded](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-station-metadata-is-uploaded.md) - 2021-11-01
+* [How to flag wind turbine faults](https://github.com/rdmolony/til/blob/main/stationmanager/how-to-flag-wind-turbine-faults.md) - 2021-11-02
 
 ## powershell
 
@@ -16,6 +12,14 @@ Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 * [Adding conda to the powershell prompt](https://github.com/rdmolony/til/blob/main/powershell/adding-conda-to-the-powershell-profile.md) - 2021-10-20
 * [Running scripts on launch](https://github.com/rdmolony/til/blob/main/powershell/running-scripts-on-launch.md) - 2021-10-21
 * [Installing powershell modules on first launch](https://github.com/rdmolony/til/blob/main/powershell/installing-powershell-modules-on-first-launch.md) - 2021-10-21
+
+## StationManager
+
+* [How the home page links to a station page](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-homepage-links-to-station-pages.md) - 2021-10-29
+* [How the navbar links to pages](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-navbar-links-to-pages.md) - 2021-11-01
+* [How the lidar report table is created](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-lidar-report-is-created.md) - 2021-11-01
+* [How the export to windographer button works](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-export-to-windographer-button-works.md) - 2021-11-01
+* [How the station metadata is uploaded](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-station-metadata-is-uploaded.md) - 2021-11-01
 
 ## wind-energy-theory
 

@@ -110,7 +110,7 @@ def flag_turbine_fault_occurences(
         *
     FROM
         timeseries LEFT JOIN faults ON
-        time BETWEEN {c_fault_start_time} AND {c_fault_end_time}
+        time BETWEEN "{c_fault_start_time}" AND "{c_fault_end_time}"
     """
     use_columns = list(timeseries.columns) + ["turbine_fault_occurs"]
     timeseries_with_faults = pd.read_sql_query(sql=query, con=con).loc[:, use_columns]

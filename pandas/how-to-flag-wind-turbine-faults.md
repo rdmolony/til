@@ -7,7 +7,9 @@ I have ...
 | ... | 2017-12-31 17:00:00 | 2017-12-31 17:00:00 | ... |
 | ... | 2017-12-31 17:10:00 | 2017-12-31 17:11:00 | ... |
 
-... and I want to know if there has been any wind turbine faults during any 10 minute time interval.  I can find this out by comparing `fault_start_time` to `fault_end_time` and flagging if they differ.
+... and I want to know if there has been any wind turbine faults during any 10 minute time interval.
+
+I can find this out by comparing `fault_start_time` to `fault_end_time` and flagging if they differ.
 
 First I need to read the data and convert it the time columns to `datetime` data types to access the `pandas` datetime operations.
 
@@ -34,6 +36,13 @@ Now I can compare them using a simple equality operator :)
 is_turbine_fault = timeseries["fault_start_time"] == timeseries["fault_end_time"]
 timeseries["turbine_fault_occurs"] = is_turbine_fault
 ```
+
+This yields
+
+| ... | fault_start_time | fault_end_time | ... | turbine_fault_occurs |
+| --- | --- | --- | --- | --- |
+| ... | 2017-12-31 17:00:00 | 2017-12-31 17:00:00 | ... | False |
+| ... | 2017-12-31 17:10:00 | 2017-12-31 17:11:00 | ... | True |
 
 ---
 

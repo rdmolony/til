@@ -1,4 +1,4 @@
-# How to flag wind turbine faults
+# How to flag wind turbine timestamps in fault time intervals
 
 I have turbine timeseries readings & turbine fault flags ...
 

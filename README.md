@@ -4,7 +4,7 @@ Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 <!-- index starts -->
 ## pandas
 
-* [How to flag wind turbine faults](https://github.com/rdmolony/til/blob/main/pandas/how-to-flag-wind-turbine-faults.md) - 2021-11-02
+* [How to flag wind turbine faults](https://github.com/rdmolony/til/blob/main/pandas/how-to-flag-wind-turbine-timestamps-in-fault-time-intervals.md) - 2021-11-02
 
 ## powershell
 

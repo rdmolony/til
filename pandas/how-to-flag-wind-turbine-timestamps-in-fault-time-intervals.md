@@ -4,8 +4,10 @@ I have turbine timeseries readings & turbine fault flags ...
 
 | time | ... |
 | --- | --- |
+| 2017-12-31 16:50:00 | ... |
 | 2017-12-31 17:00:00 | ... |
 | 2017-12-31 17:10:00 | ... |
+| 2017-12-31 17:20:00 | ... |
 
 | ... | fault_start_time | fault_end_time | ... |
 | --- | --- | --- | --- |
@@ -15,8 +17,10 @@ I have turbine timeseries readings & turbine fault flags ...
 
 | time | ... | turbine_fault_occurs |
 | --- | --- | --- |
-| 2017-12-31 17:00:00 | ... | True |
+| 2017-12-31 16:50:00 | ... | False |
+| 2017-12-31 17:00:00 | ... | False |
 | 2017-12-31 17:10:00 | ... | True |
+| 2017-12-31 17:20:00 | ... | False |
 
 How do I adapt my fault time interval into the same 10 minute interval as my timeseries data?
 

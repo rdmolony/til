@@ -5,7 +5,7 @@ Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 ## docker
 
 * [How to install python packages on ubuntu with c dependencies](https://github.com/rdmolony/til/blob/main/docker/how-to-install-python-packages-on-ubuntu-with-c-dependencies.md) - 2021-11-05
-
+* [How to run django and mysql on docker compose](https://github.com/rdmolony/til/blob/main/docker/how-to-run-django-on-docker-compose.md) - 2021-11-05
 ## pandas
 
 * [How to flag wind turbine timestamps in fault time intervals](https://github.com/rdmolony/til/blob/main/pandas/how-to-flag-wind-turbine-timestamps-in-fault-time-intervals.md) - 2021-11-03

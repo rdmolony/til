@@ -7,6 +7,7 @@ Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 * [How to install python packages on ubuntu with c dependencies](https://github.com/rdmolony/til/blob/main/docker/how-to-install-python-packages-on-ubuntu-with-c-dependencies.md) - 2021-11-05
 * [How to run django and mysql on docker compose](https://github.com/rdmolony/til/blob/main/docker/how-to-run-django-on-docker-compose.md) - 2021-11-08
 * [How to cache package manager installs with buildkit](https://github.com/rdmolony/til/blob/main/docker/how-to-cache-package-manager-installs-with-buildkit.md) - 2021-11-17
+* [How to restore a mysql database on docker compose](https://github.com/rdmolony/til/blob/main/docker/how-to-restore-a-mysql-database-on-docker-compose.md) - 2021-11-18
 
 ## pandas
 

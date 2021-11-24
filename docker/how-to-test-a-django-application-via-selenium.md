@@ -42,4 +42,11 @@ cd noVNC
 ./utils/novnc_proxy --vnc localhost:5900
 ```
 
-... and access in my browser via `localhost:5900/vnc.html`
+... and access in my browser via `localhost:5900/vnc.html`.
+
+I can now run my `Django` app unit tests and view their execution via `NoVNC` via ...
+
+```bash
+docker compose run django
+python manage.py test
+```

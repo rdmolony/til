@@ -22,6 +22,11 @@ Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 * [Running scripts on launch](https://github.com/rdmolony/til/blob/main/powershell/running-scripts-on-launch.md) - 2021-10-21
 * [Installing powershell modules on first launch](https://github.com/rdmolony/til/blob/main/powershell/installing-powershell-modules-on-first-launch.md) - 2021-10-21
 
+
+## pytest
+
+* [How to switch selenium user within a test](https://github.com/rdmolony/til/blob/main/pytest/how-to-switch-selenium-user-within-a-test.md) - 2021-11-30
+
 ## StationManager
 
 * [How the home page links to a station page](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-homepage-links-to-station-pages.md) - 2021-10-29

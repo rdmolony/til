@@ -2,6 +2,10 @@
 Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til)
 
 <!-- index starts -->
+## django
+
+* [How to create a test mysql database](https://github.com/rdmolony/til/blob/main/django/how-to-create-a-test-mysql-database.md) - 2021-12-01
+
 ## docker
 
 * [How to install python packages on ubuntu with c dependencies](https://github.com/rdmolony/til/blob/main/docker/how-to-install-python-packages-on-ubuntu-with-c-dependencies.md) - 2021-11-05

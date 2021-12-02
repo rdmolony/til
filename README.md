@@ -2,10 +2,6 @@
 Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til)
 
 <!-- index starts -->
-## django
-
-* [How to create a test mysql database](https://github.com/rdmolony/til/blob/main/django/how-to-create-a-test-mysql-database.md) - 2021-12-01
-
 ## docker
 
 * [How to install python packages on ubuntu with c dependencies](https://github.com/rdmolony/til/blob/main/docker/how-to-install-python-packages-on-ubuntu-with-c-dependencies.md) - 2021-11-05
@@ -39,6 +35,10 @@ Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 * [How the lidar report table is created](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-lidar-report-is-created.md) - 2021-11-01
 * [How the export to windographer button works](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-export-to-windographer-button-works.md) - 2021-11-01
 * [How the station metadata is uploaded](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-station-metadata-is-uploaded.md) - 2021-11-01
+
+## windows
+
+* [How to periodically backup files from wsl to onedrive](https://github.com/rdmolony/til/blob/main/windows/how-to-periodically-backup-files-from-wsl-to-onedrive.md) - 2021-12-02
 
 ## wind-energy-theory
 

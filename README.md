@@ -10,6 +10,7 @@ Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 * [How to restore a mysql database on docker compose](https://github.com/rdmolony/til/blob/main/docker/how-to-restore-a-mysql-database-on-docker-compose.md) - 2021-11-18
 * [How to test a django application via selenium](https://github.com/rdmolony/til/blob/main/docker/how-to-test-a-django-application-via-selenium.md) - 2021-11-24
 * [How to test a django application via selenium 2](https://github.com/rdmolony/til/blob/main/docker/how-to-test-a-django-application-via-selenium-2.md) - 2021-11-26
+* [How to cache wget installs with buildkit](https://github.com/rdmolony/til/blob/main/docker/how-to-cache-wget-installs-with-buildkit.md) - 2021-12-03
 
 ## pandas
 

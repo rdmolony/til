@@ -28,6 +28,7 @@ Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 
 * [How to switch selenium user within a test](https://github.com/rdmolony/til/blob/main/pytest/how-to-switch-selenium-user-within-a-test.md) - 2021-11-30
 * [How to monkeypatch a database connection](https://github.com/rdmolony/til/blob/main/pytest/how-to-monkeypatch-a-database-connection.md) - 2021-12-01
+* [How to mock out requesting a file from an external website](https://github.com/rdmolony/til/blob/main/pytest/how-to-mock-out-requesting-a-file-from-an-external-website.md) - 2021-12-05
 
 ## StationManager
 

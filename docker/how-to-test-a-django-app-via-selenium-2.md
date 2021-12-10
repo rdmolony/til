@@ -1,4 +1,4 @@
-# How to test a django application via selenium 2
+# How to test a django app via selenium 2
 
 [Marc Gibbons blog](https://marcgibbons.com/post/selenium-in-docker/) provides a nice working example but it doesn't explain how it works in as much detail as I'd like.
 

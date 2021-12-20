@@ -31,6 +31,11 @@ Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 * [How to monkeypatch a database connection](https://github.com/rdmolony/til/blob/main/pytest/how-to-monkeypatch-a-database-connection.md) - 2021-12-01
 * [How to mock out requesting a file from an external website](https://github.com/rdmolony/til/blob/main/pytest/how-to-mock-out-requesting-a-file-from-an-external-website.md) - 2021-12-05
 
+## regex
+
+* [How to select all text between two strings across lines](https://github.com/rdmolony/til/blob/main/regex/how-to-select-all-text-between-two-strings-across-lines.md) - 2021-12-20
+
+
 ## StationManager
 
 * [How the home page links to a station page](https://github.com/rdmolony/til/blob/main/stationmanager/how-the-homepage-links-to-station-pages.md) - 2021-10-29

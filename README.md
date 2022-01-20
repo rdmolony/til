@@ -39,6 +39,9 @@ Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 
 * [How to select all text between two strings across lines](https://github.com/rdmolony/til/blob/main/regex/how-to-select-all-text-between-two-strings-across-lines.md) - 2021-12-20
 
+## SQL
+
+* [How to connect to mssql db](https://github.com/rdmolony/til/blob/main/sql/how-to-connect-to-mssql-db.md) - 2022-01-20
 
 ## StationManager
 

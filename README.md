@@ -5,6 +5,7 @@ Today I Learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 ## django
 * [How to create a test mysql database](https://github.com/rdmolony/til/blob/main/django/how-to-create-a-test-mysql-database.md) - 2021-12-01
 * [How to unit test huey tasks](https://github.com/rdmolony/til/blob/main/django/how-to-unit-test-huey-tasks.md) - 2022-01-07
+* [How to prevent duplicate records being saved](https://github.com/rdmolony/til/blob/main/django/how-to-prevent-duplicate-records-being-saved.md) - 2022-02-18
 
 ## docker
 

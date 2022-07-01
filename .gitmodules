@@ -1,0 +1,3 @@
+[submodule "_notes/_til"]
+	path = _notes/_til
+	url = git@github.com:rdmolony/_til.git

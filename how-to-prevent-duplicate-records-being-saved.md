@@ -27,3 +27,5 @@ class Flag(models.Model):
         else:
             print(f"{self} is not a new record!")
 ```
+
+#django

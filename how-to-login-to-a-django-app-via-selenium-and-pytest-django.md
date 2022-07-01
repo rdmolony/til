@@ -141,3 +141,5 @@ It turns out that the user credentials must be stored in the `django` website da
 ```
 
 ... and I can login as expected
+
+#docker

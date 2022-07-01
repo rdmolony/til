@@ -28,3 +28,5 @@ GRANT ALL PRIVILEGES ON test_NAME.* TO 'USER'@'HOST';
 ```
 
 The test database creation now works as expected
+
+#django

@@ -28,3 +28,5 @@ oh-my-posh
 For now I'm keeping all external modules as a comment at the bottom of my profile
 
 :exclamation: See profile [here](https://github.com/rdmolony/dotfiles-windows)
+
+#powershell

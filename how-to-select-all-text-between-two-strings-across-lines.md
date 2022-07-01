@@ -22,3 +22,5 @@ I can't use the **Meta Escape** character `.` as this does not include **line te
 ```
 (.. plot::[\w\W]+?)"""
 ```
+
+#regex

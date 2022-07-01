@@ -19,3 +19,5 @@ finally I copied and pasted the filename into `Settings > Terminal > Font Family
 set it as the default in `vscode`
 
 :exclamation: See profile [here](https://github.com/rdmolony/dotfiles-windows)
+
+#powershell

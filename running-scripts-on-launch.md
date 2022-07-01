@@ -21,3 +21,5 @@ With
 Does the trick ([here](https://stackoverflow.com/questions/13783759/concatenate-network-path-variable)!
 
 :exclamation: See profile [here](https://github.com/rdmolony/dotfiles-windows)
+
+#powershell

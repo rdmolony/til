@@ -12,3 +12,6 @@ xcopy ^
 ```
 
 ... that uses `^` instead of `\` for multiline, `\y` to accept all and `\s` to copy subfolders
+
+
+#windows

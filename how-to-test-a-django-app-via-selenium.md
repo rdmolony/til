@@ -50,3 +50,5 @@ I can now run my `Django` app unit tests and view their execution via `NoVNC` vi
 docker compose run django
 python manage.py test
 ```
+
+#docker

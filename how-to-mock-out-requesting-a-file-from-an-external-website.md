@@ -56,3 +56,5 @@ def test_user_can_download_default_bers(
 ... where all POST request arguments are saved in `defaults.json`.  
 
 This could be improved by using `pytest` fixtures to encapsulate this logic in a function that could be called by any test to mock out this call to SEAI thus avoiding some duplication.
+
+#pytest

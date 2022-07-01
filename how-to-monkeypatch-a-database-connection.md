@@ -48,3 +48,5 @@ def test_fetch_dataframe_raises_vpn_error(monkeypatch: MonkeyPatch) -> None:
         datasource.fetch_dataframe(raw_db_table=True)
 
 ```
+
+#pytest

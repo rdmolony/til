@@ -88,3 +88,5 @@ docker exec -it goat-web python functional_tests.py
 ```
 
 > I got sidetracked reading into `Docker` networking.  It turns out that `Docker Compose` creates a network on `docker compose up` which means that `web` can access `selenium` via `http://selenium` instead of running its IP address and so does not need to be explicitely linked via `links`!
+
+#docker

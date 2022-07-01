@@ -50,3 +50,6 @@
 | --- | --- | --- | --- | --- |
 | Future wind frequency distribution  | Year-to-year variability of wind speed distribution and air density | - | ~2% | - |
 | Inter-annual variability | Year-to-year variation of average wind speed | - | inter-annual variation / SQRT(10), ~6% | Take a longer time-period |
+
+
+#wind-energy

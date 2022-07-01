@@ -126,3 +126,5 @@ Driver info: driver.version: unknown
     browser.delete_all_cookies()
     ...
 ```
+
+#pytest

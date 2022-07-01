@@ -29,3 +29,5 @@ I can set these permissions using SQL Server Management Studio (SSMS) by:
     - **Securables** - add server *SERVER_NAME*
 
 2. Vefifying user permissions on database via `Databases > DATABASE_NAME > Properties > Permissions > Effective`
+
+#sql

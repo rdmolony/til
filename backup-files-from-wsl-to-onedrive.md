@@ -1,4 +1,4 @@
-# How to periodically backup files from wsl to onedrive
+# Backup files from wsl to onedrive
 
 I want to backup source code saved in a `Windows Subsystems for Linux (WSL)` subfolder to `OneDrive` daily to add an extra degree of redundancy on top of `GitHub`.
 

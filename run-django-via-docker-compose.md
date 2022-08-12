@@ -1,4 +1,4 @@
-# How to run django and mysql on docker compose
+# How to run django via docker compose
 
 I want to run a `Django` application on `docker-compose` so that I can define the required infrastructure and dependencies as code and run this application on any machine.
 

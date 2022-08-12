@@ -1,4 +1,4 @@
-# Estimating wind speed forecast uncertainty
+# Estimate wind speed forecast uncertainty
 
 ## Measurement accuracy
 

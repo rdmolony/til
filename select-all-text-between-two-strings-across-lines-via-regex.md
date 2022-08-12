@@ -1,4 +1,4 @@
-# How to select all text between two strings across lines
+# Select all text between two strings across lines via regex
 
 I want to remove a block of text from the docstrings of 20+ functions at once where each block of text coincides with `.. plot::` and `"""` ...
 

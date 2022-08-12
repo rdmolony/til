@@ -1,4 +1,4 @@
-# How to prevent duplicate records being saved
+# Block duplicate records being saved in django
 
 I want to save unique flags indicating faulty time-series data to a database.  I want `Django` to raise an error if an attempt is made to save a record that already exists.  I could write some logic to catch this prior to writing the data each time but I'd rather have a validator at the model level.
 

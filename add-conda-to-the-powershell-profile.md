@@ -1,4 +1,4 @@
-# Adding conda to the powershell profile
+# Add conda to the powershell profile
 
 I wanted to automatically activate [`conda`](https://github.com/conda/conda) in powershell on startup.
 

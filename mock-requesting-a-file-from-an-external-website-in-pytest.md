@@ -1,4 +1,4 @@
-# How to mock out requesting a file from an external website
+# Mock requesting a file from an external website in pytest
 
 I'm developing a `streamlit` web application that requests a 1GB zip file from an external website, unzips it, cleans it, zips it and returns this new file to the user upon request.  I want to mock out the call to this external website to encapsulate my functional & unit tests as it would be very inefficient to have to download this file on every test run.
 

@@ -1,4 +1,4 @@
-# How to cache package manager installs with buildkit
+# Cache package manager installs with buildkit
 
 Downloading project dependencies for every `Docker` rebuild is slow.  `buildkit` enables caching downloads locally between builds thus skipping this download.  Lifesaver.
 

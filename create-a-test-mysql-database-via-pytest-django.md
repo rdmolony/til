@@ -1,4 +1,4 @@
-# How to create a test mysql database
+# Create a test mysql database via pytest-django
 
 I want to use `pytest-django` to spin up a test `MySQL` database for every test run.  By default `pytest-django` creates a test database called `test_NAME`, and the default USER does not have the necessary PRIVILEGES to create it.  
 

@@ -1,4 +1,4 @@
-# How to switch selenium user within a test
+# Switch selenium user within a test
 
 I want to set up and tear down a `Selenium` `webdriver` twice in the same test so that I can test how my `Django` app behaves for multiple users.  By default `Selenium` hangs if the test function `test_multiple_users_can_start_lists_at_different_urls` fails at any point beyond quitting and restarting the `browser` ...
 

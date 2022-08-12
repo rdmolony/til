@@ -1,4 +1,4 @@
-# How to test a django app via selenium
+# Test a django app on docker via selenium
 
 Marc Gibbons guide [Selenium Tests in Django & Docker](https://marcgibbons.com/post/selenium-in-docker/) and [accompanying code](https://github.com/marcgibbons/django-selenium-docker) works like a charm on `Windows Subsystems for Linux 2 (WSL2)` except for the `VNC Viewer` which can't be installed on my work laptop without authorisation by IS.
 

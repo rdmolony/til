@@ -1,4 +1,4 @@
-# How to connect to mssql db
+# Connect to mssql db
 
 I want to upload csv data to a `Microsoft SQL Server` (`mssql`) database.  I can use `pandas` to read & wrangle the csv data and `sqlalchemy` and `pyodbc` to upload it.
 

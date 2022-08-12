@@ -1,4 +1,4 @@
-# How to restore a mysql database on docker compose
+# Restore a mysql database on docker compose
 
 This one was tough.  I had a `Docker Compose` `yml` of ...
 

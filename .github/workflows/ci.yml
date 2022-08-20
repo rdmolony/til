@@ -1,0 +1,19 @@
+name: ci
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          repository: 'rdmolony/rdmolony.github.io'
+          submodules: true
+      - name: Setup git config
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "<>"
+      - run: git submodule foreach --recursive git pull
+      - run: git add docs/til && git commit -m "Update til"

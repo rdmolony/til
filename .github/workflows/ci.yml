@@ -11,9 +11,10 @@ jobs:
         with:
           repository: 'rdmolony/rdmolony.github.io'
           submodules: true
-      - name: Setup git config
+      - name: Add git user name, email & restrict pull to fast forward only!
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "<>"
+          git config --global pull.ff only 
       - run: git submodule foreach --recursive git pull
       - run: git add docs/til && git commit -m "Update til"

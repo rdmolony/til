@@ -36,11 +36,11 @@ class RenderNotebookTemplatesView(FormView):
                 station_id = int(referrer.split("/")[-1])
             except:
                 messages.error(self.request, f"Could parse station id from {referrer}")
-                initial = self.get_initial()
+                initial = self.initial.copy()
             else:
                 initial = {"stations": [station_id]}
         else:
-            initial = self.get_initial()
+            initial = self.initial.copy()
         
         return initial
 ```

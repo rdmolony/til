@@ -30,7 +30,7 @@ class RenderNotebookTemplatesView(FormView):
     form_class = forms.RenderNotebookTemplatesForm
     
     def get_initial(self):
-        referrer = self.request.META["HTTP_REFERER"]
+        referrer = self.request.META.get("HTTP_REFERER", "")
         if "/station/" in referrer:
             try:
                 station_id = int(referrer.split("/")[-1])

@@ -1,4 +1,4 @@
-I have a data pipeline that loads text files, enriches them with data from a `MySQL` database & dumps the enriched data to the same `MySQL` database.
+I have a data pipeline that loads text files, enriches them with data from a `Django` `MySQL` database & dumps the enriched data to the same `MySQL` database.
 
 I want to test this pipeline via `pytest`.  I can use `sqlalchemy` to ...
 
@@ -65,3 +65,4 @@ Calling the `tables` fixture in any `pytest` test will yield the table names - t
 
 #sqlalchemy
 #pytest
+#django

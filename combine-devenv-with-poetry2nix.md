@@ -7,8 +7,6 @@ I'm new to `nix` so working out how to combine these two `nix` tools is a challe
 [`poetry2nix`](https://github.com/nix-community/poetry2nix) ...
 
 ```nix
- 930 Bytes
-
 {
   description = "Application packaged using poetry2nix";
 

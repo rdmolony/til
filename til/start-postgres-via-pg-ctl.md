@@ -15,6 +15,28 @@ export PGDATA=~/Postgres
 pg_ctl init
 ```
 
-... and now I can `pg_ctl start`
+... and now I can ... 
+
+... start the database server via ...
+
+```sh
+pg_ctl start
+```
+
+... create a database via ...
+
+```sh
+createdb db
+```
+
+... and connect to it via ...
+
+```sh
+psql -d db
+```
+
+... or via `DBeaver`
+
+> Note that `pg_ctl init` automatically creates a role with the same name as my `MacOS` account!
 
 #postgres

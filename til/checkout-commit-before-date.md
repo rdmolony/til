@@ -1,3 +1,5 @@
+I'm reproducing [REPL Driven Development, Clojure's Superpower - Sean Corfield](https://www.youtube.com/watch?v=gIoadGfm5T8) for which I need to use [seancorfield/dot-clojure](https://github.com/seancorfield/dot-clojure) from a specific date 
+
 > How do i checkout the nearest commit to a specific date?
 
 [gpt-3.5] To checkout the nearest commit to a specific date in Git, you can use the `git log` command along with the `--before` or `--after` flag to filter the commits based on the date. 
